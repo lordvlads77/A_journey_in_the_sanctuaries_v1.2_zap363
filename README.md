@@ -26,6 +26,6 @@ Primera decisión optimizada al 100% y segunda situacion y decision escrita apro
 
 ver1.2:
 
-Todas las situaciones y decisones escritas de manera basica, pero relativamente bien escritas segun yo (tambien tengan en cuenta que son las 8:45 am y no dormi nada, en caso de que encuetren un error de concordancia u ortografia), optimizacion basica (debido a mi narrativa más basica), se incluyeron tags de sleep en todas las lineas de narrativa para una mejor experiencia lectura.
+Todas las situaciones y decisones escritas de manera basica, pero relativamente bien escritas segun yo (tambien tengan en cuenta que son las 8:45 am y no dormi nada, en caso de que encuetren un error de concordancia u ortografia), optimizacion basica (debido a mi narrativa más basica), se incluyeron tags de sleep (al final fueron de 9150 para leer de manera más calmada y natural la narrativa) en todas las lineas de narrativa para una mejor experiencia lectura.
 
 PD: Problamente le de una tuneada más intensa a esto vacaciones...
